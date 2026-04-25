@@ -20,6 +20,8 @@ import java.nio.file.Path;
 
 public class AddTrainingActivity extends AppCompatActivity {
 
+    // c
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
